@@ -1,0 +1,231 @@
+
+
+body{
+    /*background-image: linear-gradient( rgba(79,79,79,1), rgba(79,79,79,0)),
+            linear-gradient( rgba(79,79,79,.8), rgba(79,79,79,0) ),
+            linear-gradient(1deg,rgba(79,79,79,1), rgba(79,79,79,0) ), url("static/img/money.png");*/
+
+            overflow-y:hidden;
+             overflow-x:hidden; /**/
+}
+
+a {
+
+}
+
+audio{
+    width: 10%;
+    margin-top: -37%;
+    margin-left: 46%;
+    float: left;
+}
+
+.container-slider{
+    position: relative;
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#nome-christ{
+    margin-right: -25%;
+    margin-top: -63%;
+    float: right;
+}
+
+
+#telefone{
+    margin-left:-25%;
+    margin-top: 15%;
+    float:left;
+}
+
+#icon-whatsapp{
+    width:5%;
+    margin-left: -45%;
+    float: left;
+    margin-top: 35%;
+    opacity:0.9999;
+}
+
+#icon-money{
+ width: 3%;
+ margin-left: 30%;
+}
+
+#icon-money1{
+    width: 3%;
+    margin-left: -90%;
+}
+
+.image-escudo{
+    position: absolute;
+    float: left;
+}
+
+.image-escudo img{
+    position: relative;
+    width: 190%;
+    margin-top: 240%;
+    margin-left: -46%;
+}
+
+#slider {
+    float: left;
+    display:flex;
+    flex-direction: column;
+    height: 12px;
+}
+
+ #slider img{
+    opacity:0;
+    width: 100%;
+}
+
+#slider img.selected {
+   opacity:1;
+}
+
+
+
+
+#img1{
+    margin-top: -40%;
+    z-index: 0;
+  /* opacity:0; */
+
+}
+#img2{
+    margin-top: -75%;
+    float:left;
+    opacity:0.3;
+}
+
+#img3{
+    margin-top: -143%;
+    float:left;
+     opacity:0;
+}
+#img4{
+    margin-top: -143%;
+    float:left;
+     opacity:0;
+}
+#img5{
+    margin-top: -144%;
+    float:left;
+     opacity:0;
+}
+#img6{
+    margin-top: -144%;
+    float:left;
+    opacity:0;*/
+}
+#img7{
+    margin-top: -145%;
+    float:left;
+    opacity:0;*/
+}
+
+#img8{
+    margin-top: -145%;
+    float:left;
+     opacity:0;
+}
+
+#img9{
+    margin-top: -146%;
+    float:left;
+    opacity:0;
+}
+#img10{
+    margin-top: -145%;
+    float:left;
+     opacity:0;
+}
+
+#img09{
+    margin-top: -138.5%;
+    float:left;
+     opacity:0;
+}
+
+#img08{
+    margin-top: -137.5%;
+    float:left;
+    opacity:0;
+}
+
+#img07{
+    margin-top: -137.5%;
+    float:left;
+     opacity:0;
+}
+
+#img06{
+    margin-top: -137.5%;
+    float:left;
+     opacity:0;
+}
+
+#img05{
+    margin-top: -139%;
+    float:left;
+     opacity:0;
+}
+
+#img04{
+    margin-top: -139%;
+    float:left;
+     opacity:0;
+}
+
+#img03{
+    margin-top: -138%;
+    float:left;
+     opacity:0;
+}
+#img02{
+    margin-top: -141%;
+    float:left;
+     opacity:0;
+}
+
+#img01{
+    margin-top: -207%;
+    float:left;
+    margin-left: -10%;
+     opacity:1;
+}
+
+#img20{
+    margin-top: -145%;
+    float:left;
+    margin-left: -9%;
+}
+
+#img21{
+    margin-top: -145%;
+    float:left;
+    margin-left: -1%;
+}
+
+
+
+
+.animaçao{
+}
+
+@keyframes asas-um {
+ from {
+
+ }
+
+ to {
+ }
+
+
+}
+
